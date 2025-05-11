@@ -1,6 +1,8 @@
 ## "Doświadczenie"
 
-Młodszy specjalista ds. systemowej synergii adaptacyjnej w środowiskach przemysłowych o wysokim stopniu niezawodności, z naciskiem na optymalizację rozproszonych procesów sterowania oraz modularyzację infrastruktury logicznej w kontekście przemysłu 4.0 i automatyzacji. Współtwórca inicjatyw integrujących cyber-fizyczne układy z architekturą danych czasu rzeczywistego. Czasowo delegowany analityk awaryjnego wsparcia serwerów konsumenckich. Specjalizuje się w transpilacji funkcjonalnych założeń produkcyjnych do wysokosprawnych struktur LD, FBD i ST w ramach zintegrowanych środowisk inżynierskich zgodnych z standardem IEC 61131-3. Praktykant w jednostce symulacyjno-testowej megaprocesów w firmie PrzemSoft S.A.
+Młodszy specjalista ds. synergii adaptacyjnej w środowiskach automatyki przemysłowej nowej generacji
+Współautor inicjatyw integrujących układy cyber-fizyczne z real-time’ową architekturą danych w duchu Przemysłu 4.0 (i przedsionka 5.0). Optymalizuje rozproszone procesy sterowania poprzez modularną transsubstancję założeń produkcyjnych do form logicznych LD/FBD/ST zgodnych z kanonem IEC 61131-3.
+Tymczasowy strażnik serwerów konsumenckich w trybie incydentalnego ninja. Obecnie zanurzony w symulacyjno-testowym kontinuum megaprocesów OpenRocket, gdzie harmonizuje chaos zgodnie z procedurami audytu transcendencji systemowej.
 
 
 ## Aktualnie odbywane Szkolenia
