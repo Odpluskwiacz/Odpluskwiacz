@@ -8,4 +8,4 @@ Młodszy specjalista ds. systemowej synergii adaptacyjnej w środowiskach przemy
 * Prompt inżynieria informatyczna i lingwistyczna
 * Metodologia programowania Agile/Scrum Push & Pray
 * Analityczna Analiza danych
-* Inverse kinematic szydełkowanie z struktur PLA+
+* Inverse kinematic szydełkowanie z struktur materiałowych PLA+
