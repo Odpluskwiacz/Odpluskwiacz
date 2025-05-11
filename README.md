@@ -5,7 +5,7 @@ Młodszy specjalista ds. systemowej synergii adaptacyjnej w środowiskach przemy
 
 ## Aktualnie odbywane Szkolenia
 
-Prompt inżynieria informatyczna i lingwistyczna
-Metodologia programowania Agile/Scrum Push & Pray
-Analityczna Analiza danych
-Inverse kinematic szydełkowanie z struktur PLA+
+* Prompt inżynieria informatyczna i lingwistyczna
+* Metodologia programowania Agile/Scrum Push & Pray
+* Analityczna Analiza danych
+* Inverse kinematic szydełkowanie z struktur PLA+
